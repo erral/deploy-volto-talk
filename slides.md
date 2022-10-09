@@ -5,7 +5,7 @@ theme: seriph
 # like them? see https://unsplash.com/collections/94734566/slidev
 background: https://source.unsplash.com/collection/94734566/1920x1080
 # apply any windi css classes to the current slide
-class: "text-center"
+class: 'text-center'
 # https://sli.dev/custom/highlighters.html
 highlighter: shiki
 # show line numbers in code blocks
@@ -346,8 +346,14 @@ This way we copy the update-templates.py script to our addon and frontends, and 
 
 ---
 
-# Configuration
+# Configuration data
 
-- Verdaccio
+Find all data in this link:
+
+https://labur.eus/deploy-volto
+
+---
+
+<img src="/codesyntax.jpg" class="place-self-senter"/>
 
 ---
