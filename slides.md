@@ -325,4 +325,29 @@ This way, we set the required SSH keys or the keys needed to send emails through
 
 -->
 
+# How to do configuration updates?
+
+- We share configuration in a GitHub repo
+- Python script to download and update config files
+
+```
+python update-templates.py -frontend
+python update-templates.py -theme
+python update-templates.py -myself
+
+```
+
+<!--
+
+We decided to centralize the configuration scripts in a GitHub repo and prepare a script to update the files in any project.
+
+This way we copy the update-templates.py script to our addon and frontends, and can run the script to update the configuration to our standards
+-->
+
+---
+
+# Configuration
+
+- Verdaccio
+
 ---
