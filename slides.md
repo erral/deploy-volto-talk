@@ -3,7 +3,7 @@
 theme: seriph
 # random image from a curated Unsplash collection by Anthony
 # like them? see https://unsplash.com/collections/94734566/slidev
-background: https://source.unsplash.com/collection/94734566/1920x1080
+background: /splash.jpg
 # apply any windi css classes to the current slide
 class: 'text-center'
 # https://sli.dev/custom/highlighters.html
@@ -359,6 +359,6 @@ https://labur.eus/deploy-volto
 
 ---
 
-<img src="/codesyntax.jpg" class="place-self-senter"/>
+<img src="/codesyntax-ganberroa.jpg" />
 
 ---
