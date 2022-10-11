@@ -1,11 +1,5 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# How to deploy Volto sites automatically in a non-docker scenarios
 
-To start the slide show:
+This repo contains the repository used in the [talk given at the Plone Conference 2022 in Namur](https://2022.ploneconf.org/schedule/talks/how-to-deploy-volto-sites-automatically-in-a-no-docker-scenarios).
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
-
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev on [documentations](https://sli.dev/).
+[See the slides here](https://erral.github.io/deploy-volto-talk/)
