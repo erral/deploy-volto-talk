@@ -23,7 +23,7 @@ drawings:
 css: unocss
 ---
 
-# How to deploy Volto sites automatically in a no-docker scenarios
+# How to deploy Volto sites automatically in non-docker scenarios
 
 ---
 
